@@ -1,0 +1,28 @@
+# Typecasting
+name = "Jithin Ram"
+age = 25
+gpa = 3.5
+is_student = True
+
+print(type(name))
+print(type(age))
+print(type(gpa))
+
+# Convert gpa to integer
+gpa = int(gpa)
+print(gpa)
+
+# Convert age to float
+age = float(age)
+print(age)
+
+# Convert age to string(with type function)
+age = str(age)
+print(age)
+
+name =  bool(name)
+print(name)
+is_student = bool(is_student)
+print(is_student)
+
+
