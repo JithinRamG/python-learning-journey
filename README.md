@@ -25,7 +25,7 @@ Every commit here represents:
 - building real programming muscles  
 - showing discipline that future engineers need  
 
-My goal is to reach FAANG-level skills and work in *NYC* one day.  
+My goal is to reach FAANG-level skills and work abroad one day.  
 This is **Day 1 of that journey**.
 
 ---
