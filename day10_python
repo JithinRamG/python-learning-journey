@@ -1,0 +1,38 @@
+# if = Do some code only IF some condition is True
+#      Else do something else
+
+#age = int(input("Enter your age : "))
+
+#if age >= 18:
+#print("You are old enough to vote!")
+#elif age < 0:
+#print("You haven't been born yet!")
+#else:
+#print("You are not old enough to vote!")
+
+#response = input("Would you like some food? (Y/N): ")
+
+#if response == "Y":
+  #  print("Have some food!")
+#else:
+ #   print("No food!")
+
+
+#name = input("Enter your name: ")
+
+#if name == "":
+ #   print("You did not type in your name!")
+#else:
+ #   print(f"Hello {name}")
+
+
+# if statements as in booleans
+is_online = False
+if is_online:
+    print("This user is online")
+else:
+    print("This user is offline")
+
+
+
+
