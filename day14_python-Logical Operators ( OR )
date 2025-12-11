@@ -1,0 +1,10 @@
+# logical operators = evaluate multiple conditions (or, and, not)
+#                      or = at least one condition must be true
+
+temp = -3
+is_raining = False
+
+if temp > 35 or temp < 0 or is_raining:
+   print("the outdoor event is cancelled")
+else:
+   print("The outdoor event is still scheduled")
