@@ -1,0 +1,6 @@
+# Area of Triangle
+
+x = float(input())
+y = float(input())
+z = 0.5*x*y
+print(format(z,".2f"))
