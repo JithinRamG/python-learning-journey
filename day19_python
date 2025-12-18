@@ -1,0 +1,6 @@
+m = float(input())
+ti = float(input())
+ta = float(input())
+a = (ti/100)*m
+b = (ta/100)*m
+print(round(m+a+b))
